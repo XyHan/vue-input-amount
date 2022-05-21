@@ -6,7 +6,7 @@ export default {
   components: { InputAmount },
   data() {
     return {
-      amount: '12342,13',
+      amount: '1337',
       locale: 'fr-FR',
       currency: 'EUR'
     }
